@@ -14,7 +14,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pivoter.git
+   git clone https://github.com/bl4ckarch/pivoter.git
    cd pivoter
    ```
 
